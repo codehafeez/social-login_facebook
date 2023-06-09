@@ -14,8 +14,7 @@ http://localhost/social-login_facebook
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/SendEmail-PHPMailer/main/Screenshots/Output-01.png)
-![](https://raw.githubusercontent.com/codehafeez/
+![](https://raw.githubusercontent.com/codehafeez/social-login_facebook/main/Screenshots/Output.png)
 
 
 ## 🔗 www.codehafeez.com
